@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+ 
+<html>
+     
+    <head>
+        <title>
+        Hot Tub Controls
+        </title>
+    </head>
+		<h1>Hot Tub Controls</h1>
+    <body>
+		<p>Buttons to control Hot Tub remotely using JSON data</p>
+		
+		<button type="button" class="btn btn-default" data-container="body" data-toggle="popover" data-placement="top" data-content="JSON_Data">
+    Hot
+	<button type="button" class="btn btn-default" data-container="body" data-toggle="popover" data-placement="top" data-content="JSON_Data">
+    Cold </button 
+	
+	<br><br><br>
+	
+	
+	<a href="https://www.youtube.com/watch?v=o7U3lo80YrQ"><img src="Ted_Danson.jpg" alt="Ted Danson not in a hot tub" style="width500px;height:300px;">
+
+    </body>
+     
+</html>
